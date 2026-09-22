@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "CHIBI-NIVERSE",
+    "slug": "chibi-niverse",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "android": {
+      "package": "com.astroidimri.chibiniverse"
+    },
+    "ios": {
+      "bundleIdentifier": "com.astroidimri.chibiniverse"
+    }
+  }
+}
