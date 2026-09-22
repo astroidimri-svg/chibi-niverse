@@ -11,6 +11,11 @@
     },
     "ios": {
       "bundleIdentifier": "com.astroidimri.chibiniverse"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "5caf316f-6781-49a2-ae30-9693052fcc19"
+      }
     }
   }
 }
